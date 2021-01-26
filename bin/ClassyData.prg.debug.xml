@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/johncox/eclipse-workspace/ClassyData/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="3" lineNum="8" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="3" lineNum="9" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="3" lineNum="13" pc="268435481" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="4" lineNum="16" pc="268435502" symbol="draw"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="4" lineNum="18" pc="268435506" symbol="draw"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="4" lineNum="19" pc="268435520" symbol="draw"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="4" lineNum="20" pc="268435558" symbol="draw"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="4" lineNum="22" pc="268435575" symbol="draw"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataBackground.mc" id="4" lineNum="23" pc="268435601" symbol="draw"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="6" lineNum="6" pc="268435614" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="6" lineNum="7" pc="268435618" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="7" lineNum="11" pc="268435637" symbol="onStart"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="8" lineNum="15" pc="268435642" symbol="onStop"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="9" lineNum="19" pc="268435647" symbol="getInitialView"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="9" lineNum="20" pc="268435651" symbol="getInitialView"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="10" lineNum="24" pc="268435689" symbol="onSettingsChanged"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataApp.mc" id="10" lineNum="25" pc="268435693" symbol="onSettingsChanged"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="12" lineNum="17" pc="268435710" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="12" lineNum="18" pc="268435714" symbol="initialize"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="13" lineNum="22" pc="268435733" symbol="onLayout"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="13" lineNum="23" pc="268435737" symbol="onLayout"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="13" lineNum="24" pc="268435774" symbol="onLayout"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="13" lineNum="25" pc="268435793" symbol="onLayout"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="13" lineNum="26" pc="268435812" symbol="onLayout"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="14" lineNum="32" pc="268435836" symbol="onShow"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="36" pc="268435841" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="37" pc="268435845" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="39" pc="268435876" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="40" pc="268435887" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="41" pc="268435907" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="45" pc="268435930" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="46" pc="268435958" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="47" pc="268435996" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="49" pc="268436008" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="50" pc="268436025" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="51" pc="268436081" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="52" pc="268436137" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="53" pc="268436137" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="54" pc="268436147" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="55" pc="268436157" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="56" pc="268436167" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="57" pc="268436177" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="60" pc="268436187" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="62" pc="268436258" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="64" pc="268436329" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="65" pc="268436340" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="68" pc="268436362" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="71" pc="268436452" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="72" pc="268436480" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="76" pc="268436540" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="77" pc="268436556" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="78" pc="268436572" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="83" pc="268436612" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="84" pc="268436616" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="85" pc="268436632" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="87" pc="268436655" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="89" pc="268436662" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="95" pc="268436678" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="99" pc="268436685" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="103" pc="268436710" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="104" pc="268436735" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="105" pc="268436751" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="106" pc="268436774" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="107" pc="268436787" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="15" lineNum="108" pc="268436819" symbol="onUpdate"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="16" lineNum="118" pc="268436881" symbol="onHide"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="16" lineNum="119" pc="268436885" symbol="onHide"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="16" lineNum="120" pc="268436895" symbol="onHide"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="17" lineNum="124" pc="268436912" symbol="onExitSleep"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="17" lineNum="125" pc="268436916" symbol="onExitSleep"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="17" lineNum="126" pc="268436926" symbol="onExitSleep"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="18" lineNum="130" pc="268436943" symbol="onEnterSleep"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="18" lineNum="131" pc="268436947" symbol="onEnterSleep"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="18" lineNum="132" pc="268436957" symbol="onEnterSleep"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="135" pc="268436974" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="136" pc="268436978" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="137" pc="268436978" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="138" pc="268436985" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="139" pc="268436999" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="140" pc="268437015" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="141" pc="268437030" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="142" pc="268437043" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="143" pc="268437056" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="144" pc="268437064" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="145" pc="268437133" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="146" pc="268437202" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="147" pc="268437271" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="149" pc="268437340" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="150" pc="268437356" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="19" lineNum="153" pc="268437392" symbol="draw_min"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="156" pc="268437410" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="157" pc="268437414" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="159" pc="268437414" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="160" pc="268437430" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="161" pc="268437452" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="162" pc="268437489" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="163" pc="268437493" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="164" pc="268437497" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="165" pc="268437554" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="166" pc="268437611" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="167" pc="268437625" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="170" pc="268437645" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="171" pc="268437649" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="172" pc="268437653" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="173" pc="268437669" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="174" pc="268437726" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="175" pc="268437783" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="20" lineNum="176" pc="268437797" symbol="draw_watch_finger"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="180" pc="268437818" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="181" pc="268437822" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="182" pc="268437878" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="183" pc="268437888" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="184" pc="268437906" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="185" pc="268437914" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="186" pc="268437942" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="187" pc="268437942" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="188" pc="268437958" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="189" pc="268437965" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="190" pc="268438043" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="191" pc="268438121" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="192" pc="268438199" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="193" pc="268438277" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="194" pc="268438352" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="195" pc="268438427" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="196" pc="268438502" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="197" pc="268438577" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="197" pc="268438585" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="198" pc="268438624" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="198" pc="268438635" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="198" pc="268438645" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="21" lineNum="199" pc="268438658" symbol="drawsec"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="205" pc="268438829" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="206" pc="268438833" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="207" pc="268438854" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="208" pc="268438882" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="209" pc="268438903" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="210" pc="268438935" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="211" pc="268438942" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="213" pc="268438993" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="214" pc="268439041" symbol="dataCircle"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="11" pc="268439337" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/johncox/eclipse-workspace/ClassyData/source/ClassyDataView.mc" id="22" lineNum="12" pc="268439357" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="15" pc="268439090" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="17" pc="268439102" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="18" pc="268439126" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="20" pc="268439289" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="14" object="true" symbol="ClassyDataView"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="25" symbol="AppName"/>
+        <entry field="true" id="12" symbol="bgColor"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="15" method="true" symbol="draw_min"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="16" method="true" symbol="draw_watch_finger"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="20" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="18" method="true" symbol="dataCircle"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="17" method="true" symbol="drawsec"/>
+        <entry field="true" id="22" symbol="ThemeLight"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="10" symbol="device_settings"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="21" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="9" object="true" symbol="ClassyDataApp"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="13" symbol="fgColor"/>
+        <entry field="true" id="11" symbol="fast_updates"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="23" symbol="ThemeTitle"/>
+        <entry id="19" module="true" symbol="Layouts"/>
+        <entry field="true" id="24" symbol="ThemeDark"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry endPc="268435613" name="color" stackId="2" startPc="268435506"/>
+        <entry arg="true" endPc="268435614" name="dc" stackId="1" startPc="268435502"/>
+        <entry arg="true" endPc="268435642" name="state" stackId="1" startPc="268435637"/>
+        <entry arg="true" endPc="268435647" name="state" stackId="1" startPc="268435642"/>
+        <entry arg="true" endPc="268435836" name="dc" stackId="1" startPc="268435733"/>
+        <entry endPc="268436880" name="dateStrings" stackId="4" startPc="268435845"/>
+        <entry endPc="268436880" name="dateCircleY" stackId="12" startPc="268435845"/>
+        <entry endPc="268436880" name="dateCircleX" stackId="13" startPc="268435845"/>
+        <entry endPc="268436880" name="batt" stackId="19" startPc="268435845"/>
+        <entry endPc="268436880" name="hrCircleY" stackId="14" startPc="268435845"/>
+        <entry endPc="268436880" name="hrCircleX" stackId="15" startPc="268435845"/>
+        <entry endPc="268436880" name="hour" stackId="6" startPc="268435845"/>
+        <entry endPc="268436880" name="time" stackId="8" startPc="268435845"/>
+        <entry endPc="268436880" name="batCircleY" stackId="17" startPc="268435845"/>
+        <entry endPc="268436880" name="dateStrings_s" stackId="5" startPc="268435845"/>
+        <entry endPc="268436880" name="batCircleX" stackId="18" startPc="268435845"/>
+        <entry endPc="268436880" name="clockTime" stackId="3" startPc="268435845"/>
+        <entry endPc="268436880" name="min" stackId="7" startPc="268435845"/>
+        <entry endPc="268436880" name="day" stackId="9" startPc="268435845"/>
+        <entry endPc="268436880" name="sec" stackId="10" startPc="268435845"/>
+        <entry endPc="268436880" name="theme" stackId="2" startPc="268435845"/>
+        <entry endPc="268436880" name="month" stackId="11" startPc="268435845"/>
+        <entry endPc="268436880" name="heartRate" stackId="16" startPc="268435845"/>
+        <entry arg="true" endPc="268436881" name="dc" stackId="1" startPc="268435841"/>
+        <entry endPc="268437392" name="k" stackId="13" startPc="268437030"/>
+        <entry endPc="268437409" name="x" stackId="9" startPc="268436978"/>
+        <entry endPc="268437409" name="cur_deg" stackId="12" startPc="268436978"/>
+        <entry endPc="268437409" name="xx" stackId="8" startPc="268436978"/>
+        <entry endPc="268437409" name="y" stackId="11" startPc="268436978"/>
+        <entry endPc="268437409" name="yy" stackId="10" startPc="268436978"/>
+        <entry arg="true" endPc="268437410" name="maxdeg" stackId="7" startPc="268436974"/>
+        <entry arg="true" endPc="268437410" name="dc" stackId="1" startPc="268436974"/>
+        <entry arg="true" endPc="268437410" name="color" stackId="6" startPc="268436974"/>
+        <entry arg="true" endPc="268437410" name="rad2" stackId="5" startPc="268436974"/>
+        <entry arg="true" endPc="268437410" name="rad1" stackId="4" startPc="268436974"/>
+        <entry arg="true" endPc="268437410" name="pen" stackId="3" startPc="268436974"/>
+        <entry arg="true" endPc="268437410" name="divisor" stackId="2" startPc="268436974"/>
+        <entry endPc="268437817" name="x" stackId="11" startPc="268437414"/>
+        <entry endPc="268437817" name="cur" stackId="14" startPc="268437414"/>
+        <entry endPc="268437817" name="xx" stackId="10" startPc="268437414"/>
+        <entry endPc="268437817" name="y" stackId="13" startPc="268437414"/>
+        <entry endPc="268437817" name="yy" stackId="12" startPc="268437414"/>
+        <entry arg="true" endPc="268437818" name="minpen" stackId="6" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="radhour" stackId="8" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="color" stackId="4" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="hour" stackId="2" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="min" stackId="3" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="rad1" stackId="7" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="radmin" stackId="9" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="dc" stackId="1" startPc="268437410"/>
+        <entry arg="true" endPc="268437818" name="hourpen" stackId="5" startPc="268437410"/>
+        <entry endPc="268438812" name="xx" stackId="6" startPc="268437914"/>
+        <entry endPc="268438812" name="yy2" stackId="9" startPc="268437914"/>
+        <entry endPc="268438812" name="kyy2" stackId="13" startPc="268437914"/>
+        <entry endPc="268438812" name="xx2" stackId="7" startPc="268437914"/>
+        <entry endPc="268438812" name="slim" stackId="15" startPc="268437914"/>
+        <entry endPc="268438812" name="kxx2" stackId="12" startPc="268437914"/>
+        <entry endPc="268438812" name="kxx" stackId="10" startPc="268437914"/>
+        <entry endPc="268438812" name="yy" stackId="8" startPc="268437914"/>
+        <entry endPc="268438812" name="cur" stackId="14" startPc="268437914"/>
+        <entry endPc="268438812" name="kyy" stackId="11" startPc="268437914"/>
+        <entry endPc="268438828" name="k" stackId="5" startPc="268437906"/>
+        <entry endPc="268438828" name="sec" stackId="4" startPc="268437822"/>
+        <entry endPc="268438828" name="dateInfo" stackId="3" startPc="268437822"/>
+        <entry arg="true" endPc="268438829" name="dc" stackId="1" startPc="268437818"/>
+        <entry arg="true" endPc="268438829" name="rad2" stackId="2" startPc="268437818"/>
+        <entry arg="true" endPc="268439090" name="x" stackId="2" startPc="268438829"/>
+        <entry arg="true" endPc="268439090" name="dc" stackId="1" startPc="268438829"/>
+        <entry arg="true" endPc="268439090" name="text2" stackId="5" startPc="268438829"/>
+        <entry arg="true" endPc="268439090" name="text1" stackId="4" startPc="268438829"/>
+        <entry arg="true" endPc="268439090" name="y" stackId="3" startPc="268438829"/>
+        <entry endPc="268439316" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268439102"/>
+        <entry endPc="268439316" name="rez_cmp_local_custom_drawable_13942604391032416976" stackId="2" startPc="268439102"/>
+        <entry arg="true" endPc="268439317" name="dc" stackId="1" startPc="268439090"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="206" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="261" parentId="globals" symbolId="ClassyDataApp" type="class"/>
+        <dataEntry offset="340" parentId="globals" symbolId="ClassyDataView" type="class"/>
+        <dataEntry offset="467" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="546" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="585" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="616" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="647" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="686" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="717" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ClassyDataApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ClassyDataApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ClassyDataApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ClassyDataApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="ClassyDataApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ClassyDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ClassyDataView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ClassyDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ClassyDataView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ClassyDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="ClassyDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="ClassyDataView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw_min" parent="ClassyDataView">
+            <param id="dc"/>
+            <param id="divisor"/>
+            <param id="pen"/>
+            <param id="rad1"/>
+            <param id="rad2"/>
+            <param id="color"/>
+            <param id="maxdeg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw_watch_finger" parent="ClassyDataView">
+            <param id="dc"/>
+            <param id="hour"/>
+            <param id="min"/>
+            <param id="color"/>
+            <param id="hourpen"/>
+            <param id="minpen"/>
+            <param id="rad1"/>
+            <param id="radhour"/>
+            <param id="radmin"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawsec" parent="ClassyDataView">
+            <param id="dc"/>
+            <param id="rad2"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="dataCircle" parent="ClassyDataView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="text1"/>
+            <param id="text2"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
